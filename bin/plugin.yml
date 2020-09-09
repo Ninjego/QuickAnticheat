@@ -1,0 +1,8 @@
+main: me.ninjego.HergonAlerts.AlertsMain
+name: HergonAlerts
+version: 1.0
+author: Ninjego
+
+commands:
+  halerts:
+  vl:
